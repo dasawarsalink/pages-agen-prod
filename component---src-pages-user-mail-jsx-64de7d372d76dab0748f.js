@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmainagen=self.webpackChunkmainagen||[]).push([[495],{8832:function(e,n,a){a.r(n);var t=a(7378),u=a(4646);n.default=function(){return t.createElement("div",null,t.createElement(u.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-user-mail-jsx-64de7d372d76dab0748f.js.map
